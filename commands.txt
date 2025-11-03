@@ -11,16 +11,3 @@ Git Commands Cheat Sheet
 9. git branch            # List branches
 10. git checkout <branch># Switch branch
 
-Git Commands Cheat Sheet
-----------------------------
-1. git init              # Initialize a new git repository
-2. git clone <url>       # Clone an existing repository
-3. git status            # Check current repo status
-4. git add <file>        # Stage changes
-5. git commit -m 'msg'   # Commit staged changes
-6. git push origin main  # Push commits to GitHub
-7. git pull              # Fetch and merge changes
-8. git log               # Show commit history
-9. git branch            # List branches
-10. git checkout <branch># Switch branch
-
